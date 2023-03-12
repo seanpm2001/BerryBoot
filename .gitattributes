@@ -43,7 +43,7 @@
 # Assembly source file
 *.asm linguist-detectable=true
 *.asm linguist-documentation=false
-*.asm linguist-language=C
+*.asm linguist-language=Assembly
 # Berry source file
 *.be linguist-detectable=true
 *.be linguist-documentation=false
@@ -196,7 +196,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2023, Sunday, March 12th at 12:42 pm PST)
+# File version: 6 (2023, Sunday, March 12th at 12:45 pm PST)
 # Line count (including blank lines and compiler line): 203
 
 # End of script
